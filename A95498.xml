@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth vindicated from the scandalous aspersions of Hippolito de Luisanzy priest of Harwich against the peole called Quakers; in reporting he heard a Jesuit preach amongst them: with an answer of reproof to that and other lies and forgeries. : Also several certificates from the town of Harwich, to clear the truth and undeceive the people who have thereby been abused.</title>
+            <author>Tyso, John, d. 1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95498</idno>
+            <idno type="STC">Wing T3595</idno>
+            <idno type="STC">ESTC R185848</idno>
+            <idno type="EEBO-CITATION">47683516</idno>
+            <idno type="OCLC">ocm 47683516</idno>
+            <idno type="VID">172974</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172974)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2660:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth vindicated from the scandalous aspersions of Hippolito de Luisanzy priest of Harwich against the peole called Quakers; in reporting he heard a Jesuit preach amongst them: with an answer of reproof to that and other lies and forgeries. : Also several certificates from the town of Harwich, to clear the truth and undeceive the people who have thereby been abused.</title>
+                  <author>Tyso, John, d. 1700.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Clark ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 12: John Tyso; and on p. 16: J.T.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>De Luzancy, H. C. --  (Hippolyte du Chastelet), d. 1713.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Quakers --  England --  Harwich --  Early works to 1800.</term>
+               <term>Harwich (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="vindication_of_Quakers">
+            <pb facs="tcp:172974:1" rendition="simple:additions"/>
+            <head>TR<g ref="char:V">Ʋ</g>TH Vindicated from the Scandalous Aſperſions of <hi>Hip<g ref="char:EOLhyphen"/>polito de Luiſanzy</hi> Prieſt of <hi>Harwich</hi> againſt the People called. <hi>Quakers;</hi> in Reporting he heard a <hi>Jeſuit</hi> Preach amongſt them: With an Anſwer of Re<g ref="char:EOLhyphen"/>proof to that and other Lies and For<g ref="char:EOLhyphen"/>geries.</head>
+            <head type="sub">As alſo ſeveral Certificates from the Town of <hi>Harwich,</hi> to clear the Truth and <g ref="char:V">Ʋ</g>ndeceive the People, who have thereby been Abuſed.</head>
+            <p>WHereas one <hi>Hippolito de Lui<g ref="char:EOLhyphen"/>ſanzy,</hi> one that is come out of <hi>France,</hi> (and is ſaid to be converted from <hi>Popery,</hi> and is ſettled in a Benefice at <hi>Harwich</hi> in <hi>Eſſex</hi>) hath moſt wickedly Forged Lies and Scan<g ref="char:EOLhyphen"/>dalous Reports, upon me and the people called <hi>Quakers:</hi> The time wherein he took the occaſion to Forge theſe Lies, was above two years ſince; and about ſeven Months after, theſe Reports came in Writing from <hi>Harwich</hi> to my hand;
+<pb facs="tcp:172974:2"/>and in a ſhort time after I ſent a Letter in the way of Reproof to him, (which with his Report is here inſerted) which was Read before him, and ſome of the Chief of the Town: And his anſwer was, <hi>He was to go to</hi> London, <hi>and would prove what he had ſaid to our Shame:</hi> But never did, nor would come to my Houſe when he was in <hi>London;</hi> And although I ſought for him at ſeveral places where he Lodged, yet I could not find him: And I being a man clear of ſuch things, and the people among whom I walk, of a better Diſcerning, than to ſit under a <hi>Jeſuits</hi> Miniſtry, who are alſo Scanda<g ref="char:EOLhyphen"/>lized thereby.</p>
+            <p>It lay upon me to go from <hi>London</hi> to <hi>Harwich</hi> to clear my ſelf of this Scandal, where I had a meeting with this <hi>Prieſt,</hi> and ſeveral people of the Town; but the <hi>Prieſt</hi> ſaid, <hi>He did not know me,</hi> not<g ref="char:EOLhyphen"/>withſtanding I related theſe Circum<g ref="char:EOLhyphen"/>ſtances, which is here in my Letter in<g ref="char:EOLhyphen"/>ſerted: And alſo told him of his un<g ref="char:EOLhyphen"/>ſound Expreſſions, which he deſired my Judgment in, when he was at my Houſe, (I know not whether he ſpoke as his Judgment, or to Inſnare me) which
+<pb n="3" facs="tcp:172974:2"/>was on this wiſe: <hi>That Marriage was an Indifferent thing:</hi> And Queried, <hi>Why ſhould a man be bound to one Woman.</hi> At which I was troubled to hear him ſo ſpeak, and asked him if he did believe the Scriptures were true; but I do not remember what anſwer he gave me: But my Reply to his <hi>Query</hi> was. <hi>Mar<g ref="char:EOLhyphen"/>riage was an Ordinance of God, and In<g ref="char:EOLhyphen"/>ſtituted by the Lord in Paradice before man fell, and that it was Juſt in the ſight of God that every man ſhould have his own Wife, and Whoremongers and Adulte<g ref="char:EOLhyphen"/>rers God will Judge:</hi> But at the Relati<g ref="char:EOLhyphen"/>on of theſe things the <hi>Priest</hi> was very Angry, and ſtill affirmed, <hi>He did not know me;</hi> but the people were ſatisfied he had abuſed me, and many were aſhamed of him; and alſo I have Ser<g ref="char:EOLhyphen"/>vants can teſtify I am the man he In<g ref="char:EOLhyphen"/>quired for at my Shop, and that he came up into my Chamber where I was Reading, and continued more than an Hour, and was ſeveral times at my Houſe afterwards.</p>
+            <p>But as for the Diſcourſe, or what paſt between us, when he was firſt at my Chamber; it was much on this wiſe,
+<pb n="4" facs="tcp:172974:3"/>concerning my Belief and Principles, which he inquired after, and ſeemed very Serious, and as things opened in my heart according to my Judgment and Belief I anſwered to this effect, That I Believed, <hi>Chriſt Jeſus taſted death for every man, and was a Propitiation for our ſins; and not for our ſins only, but for the ſins of the whole World, and that he hath given his good Spirit to inſtruct man, which did reprove the World of ſin, and lead them that believed in, and obeyed it, into Truth and Righteouſneſs and Peace with God; which is more precious then all the Glory of this World: And that this manifestation of the Spirit of Christ Jeſus, was the univerſal gift of God to all mankind, to lead them up to God again, from whom they were fallen through Tranſ<g ref="char:EOLhyphen"/>greſſion, which gift of this Bleſſed Spirit goes under many names</hi> (to wit) <hi>The ſure word of Prophecy, the Light of Christ Je<g ref="char:EOLhyphen"/>ſus, the Ingrafted Word, which is able to ſave your ſouls, the Word nigh in the Heart and Mouth, which</hi> Paul <hi>ſaid was the word of Faith which we Preach; the Grace of God which brings Salvation, which hath appeared to all men, which was the
+<pb n="5" facs="tcp:172974:3"/>Saints Teacher of Old, and through all Ages unto this day; and Holy men ſpake of it as they felt its operation in their Hearts; and as they grew up into its na<g ref="char:EOLhyphen"/>ture: It was ſaid ye have an <g ref="char:V">Ʋ</g>nction from the holy one, and ye know all things, and that anointing which ye had received abi<g ref="char:EOLhyphen"/>deth in you, and he need not that any man ſhould teach you, but as that anointing teacheth you of all things, and is true, and is no lie, (and this is that Bleſſed Prin<g ref="char:EOLhyphen"/>ciple we direct all people for Salvation to) that they may believe in it and obey it, for we teſtify for God, there is no people under Heaven, that have any good deſire in their Hearts, or true breathings in their Souls towards God; but it ariſeth from this Bleſſed Principle and Gift of Gods Spirit, which comes through Chriſt Jeſus, and is his Spiritual appearance in the Hearts of his people in this Goſpel day, al<g ref="char:EOLhyphen"/>though many ſtumble at it, and cannot stoop ſo low, to believe in that which in the ſecret of their Hearts reproves for ſin; but are ready to ſay of it as the Scribes and Pha<g ref="char:EOLhyphen"/>riſees ſaid of Chriſt,</hi> Is not this the Carpen<g ref="char:EOLhyphen"/>ters Son, <hi>(a contemptable thing) who be<g ref="char:EOLhyphen"/>lieves on him? Doth any of the Rulers or the
+<pb n="6" facs="tcp:172974:4"/>Chief Prieſts, but a company of Ignorant people who are accurſed, and know not the Law; and is it not ſo at this day? The Lord open the eyes of people, that they may ſee where they are, and what they are do<g ref="char:EOLhyphen"/>ing, and turn unto him who ſmites in the ſecret of their Conſciences for Sin and Re<g ref="char:EOLhyphen"/>bellion, that he might heal them:</hi> And much to this Effect was my Teſtimony to this man, who hath ſo abuſed me; but I can ſay the Lord humble him, and give him a Penitent Heart, that he may find mercy in the day of Judgment.</p>
+         </div>
+         <div type="report">
+            <head>Here followeth the Copy of the firſt Report, taken from his Mouth, and my Anſwer thereunto; As alſo the Certificates of ſeveral of the Chief of the ſaid Town, who were Ear Wit<g ref="char:EOLhyphen"/>neſſes of the ſame.</head>
+            <opener>
+               <dateline>Harwich <date>the 25th. of the 1ſt, Month 1679:</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>HIppolito Luiſanzy,</hi> (a Prieſt of the ſaid Town) reporteth, that about three or four Months ſince, he found a Jeſuit Preaching among the <hi>Quakers,</hi>upon which I went to him to know the Truth of it; which he related to me after this man<g ref="char:EOLhyphen"/>ner:<hi>He, and another man, went to a
+<pb n="7" facs="tcp:172974:4"/>Meeting of the <hi>Quakers,</hi> in a Street cal<g ref="char:EOLhyphen"/>ed <hi>Quakers-ſtreet,</hi> near <hi>Spitlefields Lon<g ref="char:EOLhyphen"/>don,</hi> where he heard divers Preach one after another; at laſt one ſtood up and Preached, of whom he took more than Ordinary notice, as perceiving his Me<g ref="char:EOLhyphen"/>thod to differ from the other, and to Preach more like a Scholar; and by ſeveral Circumſtances Judged him to be no <hi>Quaker;</hi> and being willing to have ſome further knowledge of him, ſtaid till he had done, and followed him out,</hi> (himſelf not being Habited like a Prieſt, to prevent Suſpition) <hi>got an opportunity to ſpeak to him: After a Complement, told him, he ſhould be very glad to be further Acquainted with him; for that he liked his Sermon very well, being performed like a Scholar:</hi> The pretend<g ref="char:EOLhyphen"/>ed <hi>Quaker</hi> anſwered, <hi>He was no Scholar, but a Shoe-maker,</hi> He then deſired to know where he Lived; who told him, <hi>He Lived at a Houſe near <hi>Alderſgate;</hi>
+               </hi> The Prieſt told him, <hi>He would come and buy ſome Shoes of him:</hi> And after ſome other diſcourſe parted. A few days after he went thither, and finding the Shop, asked the Servants if there was not a Quaker li<g ref="char:EOLhyphen"/>ved
+<pb n="8" facs="tcp:172974:5"/>there? was anſwered <hi>Yes, he was above-ſtairs;</hi> upon which (ſeeing the Stairs in the Shop) went forthwith up, when he came into the first Room, looked about him, and ſaw a Door into another Room, which he went into, and there found his ſuppoſed <hi>Quaker</hi> at his Books, having a very great Library in his Cham<g ref="char:EOLhyphen"/>ber, ſeveral Books lying open before him, ſome of which were <hi>Greek:</hi> 
+               <g ref="char:V">Ʋ</g>pon his ſo ſudden coming in, the ſaid <hi>Quaker</hi> was ſurprized, and very angrily ask'd him <hi>how he came there?</hi> and <hi>what his buſineſs was?</hi> He then told him, <hi>He wondered he ſhould tell ſuch a Lie to him the other day, in ſaying <hi>he was no Schollar,</hi> where<g ref="char:EOLhyphen"/>as now he found to the contrary, and which he did ſuppoſe before, <hi>but was wil<g ref="char:EOLhyphen"/>ling to be ſatisfied with other Diſ<g ref="char:EOLhyphen"/>courſe, ſo went away; and ſoon after went to the Biſhop of <hi>London,</hi> and acquainted him with it, told him he believed he was no Quaker, but that he aſsumed the Name to deceive, but rather that he was a Jeſuit, and a very dangerous perſon fit to be ap<g ref="char:EOLhyphen"/>prehended, upon which the Biſhop ordered he ſhould, which was forwith done, and he committed to Priſon, where he re<g ref="char:EOLhyphen"/>mains,
+<pb n="9" facs="tcp:172974:5"/>being found to have a hand in the Plot.</hi>
+               </hi>
+            </p>
+            <closer>
+               <signed>John Vandewall.</signed>
+            </closer>
+         </div>
+         <div type="affidavit">
+            <opener>
+               <salute>Hippolito Luiſanzy,</salute>
+            </opener>
+            <p>I Receiv'd a Paper from the hand of <hi>John Vandewall,</hi> wherein he gives an account of thy ſcandalizing and reproa<g ref="char:EOLhyphen"/>ching of the people of God called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> in reporting that thou foundſt a <hi>Jeſuit</hi> preaching amongſt them, and by circumſtances <hi>I am the Man</hi> thou preten<g ref="char:EOLhyphen"/>deſt to be the <hi>Jeſuit:</hi> And not by re<g ref="char:EOLhyphen"/>port (ſaiſt thou) but of thy own know<g ref="char:EOLhyphen"/>ledge. And to make up thy Story, thou ſaiſt, <hi>The Jeſuit had a Library of Books, and ſome of them were</hi> Greek. <hi>O thou de<g ref="char:EOLhyphen"/>ceitful Man,</hi> what doſt thou promiſe to thy ſelf by making theſe Lies? For I am a Shoemaker, and have no Language but my natural Tongue, which is <hi>Engliſh,</hi> and alſo thou waſt at my Shop, and be<g ref="char:EOLhyphen"/>ſpake Shoes of me ſeveral times, and paidſt me for them, and pretendedſt great love to me, and defiredſt to lodge at my Houſe, but I (ſeeing thy fawning Spi<g ref="char:EOLhyphen"/>rit) could not give way to it.</p>
+            <p>
+               <pb n="10" facs="tcp:172974:6"/>
+But that is true, thou waſt at a Meeting near <hi>Spittle-Fields,</hi> where thou didſt hear me Speak, or Preach, as thou ſaiſt, and that thou metſt me in the Street af<g ref="char:EOLhyphen"/>terwards, and toldſt me, <hi>Thou waſt well ſatisfied with my Sermon, and that thou believedst I was a Schollar, and deſiredſt further acquaintance with me, and to know where I dwelt,</hi> is true; and I told thee I was no Schollar, and alſo informed thee where I dwelt, and thou cameſt to my Houſe within a few days after, and de<g ref="char:EOLhyphen"/>ſiredſt to have ſome conference with me, and thou waſt with me in my Chamber, where I was friendly to thee, and not angry, nor ſurprized, as thou ſayeſt; and thou mighteſt ſee ſeveral Books, and at that time ſome of them were upon the Table, but none of them were <hi>Greek</hi> or <hi>Latine.</hi>
+            </p>
+            <p>Neither didſt thou charge me with a Lie in that I ſaid <hi>I was no Schollar,</hi> nor no<g ref="char:EOLhyphen"/>thing in the way of reflection didſt thou ſpeak to me, but ſeemedſt to be very friendly, and deſiredſt to know our Do<g ref="char:EOLhyphen"/>ctrine and Principles, which I ſpake to thee as things opened in my heart, and thou ſeemedſt to be ſatisfied, and in
+<pb n="11" facs="tcp:172974:6"/>words owned what I ſaid; and this was the firſt time of thy being at my Houſe, and thon boughteſt a pair of Shoes of me, and wenteſt thy way in a friendly manner, and waſt ſeveral times at my Shop afterwards, and beſpake Shoes of me as aforeſaid. But to invent ſuch Lies as thou haſt done, deſerves reproof, and that from them thou haſt told them to, who are abuſed thereby: But thy De<g ref="char:EOLhyphen"/>ceit and Hypocriſie is ſeen, and thou art weighed in the Ballance of Equity, and art found as light as Vanity, and the Wrath of the Lord ſhall conſume thy covering, and thee with it, except thou repent, who makeſt Lies thy Refuge; and alſo how couldſt thou be ſo impu<g ref="char:EOLhyphen"/>dent to report ſuch horrible Lies, <hi>That by the Biſhop of</hi> London <hi>I was apprehended and eommitted to Priſon, and there remain, being found to have a hand in the Plot?</hi> But I am not of ſuch principles, but I have learned the Command of Chriſt Jeſus, which is, <hi>To love Enemies.</hi> And I abhor the thoughts of ſuch things in my heart, which thou haſt laid to my charge, nor never was impriſon'd upon any ſuch ac<g ref="char:EOLhyphen"/>count; neither was I ever queſtioned by
+<pb n="12" facs="tcp:172974:7"/>the Biſhop or any concerning ſuch things but am at Liberty, to reprove thy lying Spirit: therefore bluſh and be aſhamed, if there be any left in thee, and ceaſe from thy pretence of teaching others till thou art better taught thy ſelf, and repent of thy wickedneſs, and give teſtimony againſt thy Lies, where thou haſt ſpread them abroad, and let the people know thou haſt abuſed and wronged me and them, by reporting ſuch Lies againſt me.</p>
+            <p>I do hear that about four years ſince thou waſt converted, but I am ready to judge thou art ſtill no better, notwith<g ref="char:EOLhyphen"/>ſtanding thy pretended Reformation, thy living Spirit (Jeſuit-like) makes thee manifeſt.</p>
+            <closer>
+               <dateline>Lond. <date>14. 2d. Month, 1679.</date>
+               </dateline>
+               <signed>From one that could wiſh thou wert better, who am known by Name,
+<hi>John Tyſo.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="affidavit">
+            <pb n="13" facs="tcp:172974:7"/>
+            <opener>
+               <dateline>Harwich <date>the 3d. of <hi>January,</hi> 1680.</date>
+               </dateline>
+            </opener>
+            <p>THeſe are to certifie, That about two years ſince <hi>Hippolito de Luiſanzy</hi> coming to this Town to be Miniſter here, did, within a ſhort time after, report, That he had caus'd a <hi>Quaker</hi> (who afterwards prov'd a <hi>Jeſuit</hi>) to be apprehended, the manner thus (<hi>viz.</hi>) he going to a Quakers Meeting, heard one preach a prety while, whom (after Meeting) he followed out, and enquired of him where he lived, who anſwe<g ref="char:EOLhyphen"/>red <hi>within Alderſgate,</hi> and the ſaid <hi>Lui<g ref="char:EOLhyphen"/>ſanzy</hi> telling him he believed he was a Schollar; He anſwered him <hi>no, he was no Schollar, but a Shoemaker,</hi> upon which the ſaid <hi>Luiſanzy</hi> told him he would come and buy Shoes of him, and within few days went to the Shop, and enquired of the Servants if there did not live a Quaker there, who anſwered <hi>Yes,</hi> and that he was above-ſtairs; He ſeeing the Stairs in the Shop, did not ſtay to be invited in, but went up without, and found the ſaid Qua<g ref="char:EOLhyphen"/>ker at his Books, (having a great Library) ſome of which were <hi>Latin</hi> and <hi>Greek:</hi> Af<g ref="char:EOLhyphen"/>ter ſome Diſcourſe past between them, he went away, and acquainted the Biſhop of
+<pb n="14" facs="tcp:172974:8"/>
+               <hi>London</hi> therewith. who caus'd him to be apprehended, and (finding him to be a <hi>Jeſuit</hi>) committed him to <hi>Newgate,</hi> ſince which he is found to have a hand in the Plot.</p>
+            <p>This he reported to divers in this Town, and to us in particular.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>John Brown.</item>
+                     <item>Wil. Marloe.</item>
+                     <item>Charles Smyth.</item>
+                     <item>John Vandewall.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="affidavit">
+            <p>WE whoſe Names are here under<g ref="char:EOLhyphen"/>written, hearing of the Report within mentioned, and that the perſon to whom it related was come to Town, were deſirous to hear what could be ſaid in the buſineſs; and being preſent when the ſaid <hi>de Luiſanzy</hi> and the Quaker met, did hear the ſaid <hi>Luiſanzy</hi> utterly deny that ever he ſaw him, though the ſaid <hi>Quaker</hi> did by ſeveral circumſtan<g ref="char:EOLhyphen"/>ces ſhew that he was the Man he heard preach, and followed out of the Meeting, and afterwards was at his Houſe, and bought Shoes of him, yet for a long time he denied that ever he ſaw him; But before they parted he confeſs'd he had
+<pb n="15" facs="tcp:172974:8"/>bought Shoes of him, which was all he would confeſs to</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Robert Lane.</item>
+                     <item>Robert Last.</item>
+                     <item>Samuel Morris.</item>
+                     <item>William Marloe.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="affidavit">
+            <p>Therefore hearing that ſtill this ſcan<g ref="char:EOLhyphen"/>dalous Report is blazed abroad, and afir<g ref="char:EOLhyphen"/>med to be a real Truth, and amongſt <hi>Parliament-men,</hi> who are endeavouring to heal the breaches amongſt the people, which I do not queſtion but in great mea<g ref="char:EOLhyphen"/>ſure have been brought forth by <hi>Romiſh Emiſaries,</hi> who would deſtroy the <hi>ap<g ref="char:EOLhyphen"/>pearance</hi> of God, in the hearts of people from off the Earth, if by the Lord they were not limited, whoſe Work in ſome degree is to forge Lies, and ſtir up peo<g ref="char:EOLhyphen"/>ple one againſt another, that they might be weakened thereby, that the Church of <hi>Rome,</hi> with her wicked Inſtruments, might be ſtrengthened and encouraged in their wicked and helliſh Deſigns, as this Prieſts work to me appears, in this his abuſe towards me, which tends to the Deſtruction of my Life, and all I have in this World, (and the whole Body of
+<pb n="16" facs="tcp:172974:9"/>a People to ſuffer thereby, who fears God,) and as much as any people in the World, denies the Idolatrous principles and practices of the Church of <hi>Rome,</hi> and he hath not only abuſed us, but the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>London</hi> alſo, by forging Lies upon him; For I was never before him nor queſtioned in any ſuch thing; And this is the cauſe why this is put to publick view, that Truth might be cleared, and ſuch evil Reports taken out of the minds of people, that they might not be abuſed therewith; And it is my deſire that this Man and I may be brought before ſome in Authority, to give an account in this matter, that Truth may take place, and Deceit and Wickedneſs may not go un<g ref="char:EOLhyphen"/>reproved.</p>
+            <closer>
+               <signed>J. T.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Benjamin Clark,</hi> Bookſeller, in <hi>George-yard Lumbard-Street,</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
